@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main()
 {
-int x,y;
+int x,y,c;
 
 scanf("%f", &y);
 
 y=5x+20;
-
+c=y*2;
 printf( "otvet: %f\n", c);
 
 return(0);
