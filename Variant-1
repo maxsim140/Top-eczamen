@@ -7,7 +7,7 @@ scanf("%d", &y);
 
 y=5x+20;
 c=y*2;
-printf( "otvet: %f\n", c);
+printf( "otvet: %d\n", c);
 
 return(0);
 }
