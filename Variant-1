@@ -1,13 +1,13 @@
 #include <stdio.h>
 int main()
 {
-int x,y,с;
+int x,y;
 
 scanf("%d", &y);
 
 y=5x+20;
 
-printf( "otvet: %d\n", c);
+printf( "otvet: %d\n", y);
 
 return(0);
 }
