@@ -3,7 +3,7 @@ int main()
 {
 int x,y,c;
 
-scanf("%f", &y);
+scanf("%d", &y);
 
 y=5x+20;
 c=y*2;
