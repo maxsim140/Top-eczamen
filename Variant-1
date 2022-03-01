@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+int x,y;
+
+scanf("%f", &y);
+
+y=5x+20;
+
+printf( "otvet: %f\n", c);
+
+return(0);
+}
